@@ -9,5 +9,5 @@ Route::get('/', function () {
     return Inertia::render('Welcome', []);
 });
 Route::get('/app', function () {
-    return Inertia::render('App', []);
+    return Inertia::render('app', []);
 });

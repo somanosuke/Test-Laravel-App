@@ -1,3 +1,8 @@
+<script lang="ts" setup>
+import DefaultLayout from '../Layouts/default.vue'
+
+
+</script>
 <template>
-ssdf
+アプリ画面
 </template>
