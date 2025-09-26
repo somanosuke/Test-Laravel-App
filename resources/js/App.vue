@@ -1,3 +1,3 @@
 <template>
-ssdf
+    <router-view />
 </template>
